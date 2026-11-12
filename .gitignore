@@ -1,0 +1,6 @@
+*.exe
+*.o
+dfa/dfa
+nfa/nfa
+enfa/enfa
+rls/rls
